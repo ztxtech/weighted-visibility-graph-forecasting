@@ -14,11 +14,14 @@ We would like to thank Monash Forecasting for providing the data and code sample
 
 ## Cite Me
 ```bibtex
-@article{zhan2021novel,
+
+@article{zhan2024novel,
   title={A novel weighted approach for time series forecasting based on visibility graph},
   author={Zhan, Tianxiang and Xiao, Fuyuan},
-  journal={arXiv preprint arXiv:2103.13870},
-  year={2021}
+  journal={Pattern Recognition},
+  pages={110720},
+  year={2024},
+  publisher={Elsevier}
 }
 
 ```
