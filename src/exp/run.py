@@ -3,7 +3,7 @@ import os
 import numpy as np
 import pandas as pd
 
-import fs.forecasting as fs
+import fs
 from utils import data_loader
 
 filename = os.listdir("./data/tsf")
