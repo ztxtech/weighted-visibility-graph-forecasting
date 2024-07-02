@@ -1,10 +1,8 @@
-torch
-numpy
-pandas
-scikit-learn
-autots
-pmdarima
-matplotlib
+jupyter
 tqdm
-arch
-statsmodels
+pandas
+numpy
+pmdarima
+torch
+matplotlib
+autots
